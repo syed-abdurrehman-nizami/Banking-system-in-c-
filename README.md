@@ -4,7 +4,7 @@ I make this project in c++ programming language.<br>
 <br>
 FUNCTIONALITIES :-
 <br><br>
-1 - Open an account.
+1 - Open an account.<br>
 2 - Balance enquiry.<br>
 3 - Deposit and withdrawl money.<br>
 4 - Withdrawl slip.<br>
